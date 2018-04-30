@@ -3,11 +3,6 @@ layout: default
 title: homepage
 ---
 
----
-layout: default
-title: Homepage
----
-
 ### About me
 I'm a PhD student in Data Science and Criminology based in the [Leeds Institute of Data Analytics](https://lida.leeds.ac.uk/) (University of Leeds). 
 
