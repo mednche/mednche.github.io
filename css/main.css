@@ -2,16 +2,47 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+
+#nav > ul {
+    margin: 0;
 }
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
+
+    #nav > ul > li {
+        border-radius: 5px 5px 0 0;
+        display: inline-block;
+        margin-left: 0.5em;
+        padding: 0.5em 1.0em;
+    }
+
+        #nav > ul > li a {
+            color: #FFF;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+
+        #nav > ul > li:first-child {
+            margin-left: 0;
+        }
+
+        #nav > ul > li:hover a {
+            color: #fff;
+        }
+
+        #nav > ul > li.active {
+            /*background: #3ac984;*/
+            /*background: #6ca0e8;*/
+        }
+
+            #nav > ul > li.active a {
+                /* color: white; */
+                /* color: #6ca0e8; */
+                color: black;
+            }
+
+        #nav > ul > li > ul {
+            display: none;
+        }
+
 a {
     text-decoration: none;
     color: #999;
