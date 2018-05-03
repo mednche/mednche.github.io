@@ -87,10 +87,10 @@ header h2 {
     
 }
 
-header a {
+#header a {
     color: #fff;
 }
-header a:visited {
+#header a:visited {
     color: #fff;
 }
 
