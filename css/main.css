@@ -67,7 +67,6 @@ a:hover {
     #header > * {
         position: relative;
         z-index: 1;
-        color: #fff
     }
 
 .homepage #header {
@@ -86,6 +85,11 @@ header h2 {
     font-weight: 600;
     
 }
+
+header a {
+    color: #fff;
+}
+
 
 header .byline {
     font-size: 1.6em;
