@@ -18,14 +18,6 @@ I'm under the supervision of [Dr Daniel Birks](https://www.griffith.edu.au/crimi
 * Data visualisation
 * Spatial analysis
 
-### Projects
-
-* [Monitoring Hate Crime using Twitter](https://mednche.github.io/HateCrime/)
-* The language of Brexit - an application of topic modelling
-* Reddit bot for IMDB and Rotten Tomatoes ratings
-* Recognising cloned cars with the Automatic Number Plate Recognition (ANPR) system
-* [Other projects](https://mednche.github.io/VariousProjects/)
-
 ### Awards
 
 * [IALEIA Award for Excellence: Individual](https://mednche.github.io/IALEIA/) - 2018. The Award recognises individuals for outstanding contributions as intelligence analysts utilising intelligence products leading to the achievement of the organisation’s objectives.
