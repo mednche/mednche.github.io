@@ -7,7 +7,8 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
+
+body p {
     font-size: 1.4em;
     line-height: 1em;
     color: #333;
@@ -26,14 +27,14 @@ ul.posts li {
     list-style: none;
 }
 
-li {
+body li {
     font-size: 1.4em;
     line-height: 1em;
     color: #000;}
 
 a {
     text-decoration: none;
-    color: #000;
+    
 }
 a:hover {
     text-decoration: underline;
