@@ -5,11 +5,14 @@ body {
 
 /* Header */
 
+.header-site{
+   background: #000000 url(http://www.yoursite.com/folder/image.jpg) 100% 100% no-repeat;
+}
+
 #header {
-    /* background: #222222; */
-    background: #6ca0e8;
+    /* background: #6ca0e8;
     /* Show the header image: */
-    /*background: #333333 url("../images/head_image.jpg") no-repeat;*/
+    background: #333333 url("../images/cover.png") no-repeat;*/
     background-size: cover;
     color: #fff;
     padding: 1em;
