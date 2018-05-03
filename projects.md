@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pojects
+---
+
 # Projects
 
 * [Monitoring Hate Crime using Twitter](https://mednche.github.io/HateCrime/)
