@@ -88,6 +88,9 @@ header h2 {
 header a {
     color: #fff;
 }
+header a:visited {
+    color: #fff;
+}
 
 
 header .byline {
