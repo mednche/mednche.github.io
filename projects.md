@@ -1,4 +1,4 @@
-### Projects
+# Projects
 
 * [Monitoring Hate Crime using Twitter](https://mednche.github.io/HateCrime/)
 * The language of Brexit - an application of topic modelling
