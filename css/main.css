@@ -9,7 +9,7 @@ body {
 #header {
     /* background: #6ca0e8; */
     /* Show the header image: */
-    background: url("/images/cover.png") no-repeat;
+    background-image: url("/images/cover.png");
     background-size: cover;
     /* color: #fff;*/
     padding: 1em;
