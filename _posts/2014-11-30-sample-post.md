@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Hate crime
+title: Application of Natural Language Processing for identification of online hate on Twitter
 tags: [NLP, Hate crime, classifier]
 excerpt_separator: <!--more-->
 ---
