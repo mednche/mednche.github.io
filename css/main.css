@@ -48,6 +48,12 @@ body a:visited {
     max-width: 80%;
 }
 
+excerpt {
+    font-size: 1.4em;
+    line-height: 1em;
+    color: #333;
+}
+
 /* Header */
 #header {
     /* background: #6ca0e8; */
