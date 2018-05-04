@@ -1,8 +1,7 @@
 ---
 layout: posts
 title: The language of Brexit
-feature-img: "/images/cover.jpeg"
-thumbnail: "/images/thumbnails/cover.jpeg"
+feature-img: "/images/cover.png"
 tags: [Topic modelling, Brexit, tabloids]
 ---
 
