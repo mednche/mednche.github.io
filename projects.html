@@ -2,18 +2,31 @@
 layout: default
 title: Pojects
 ---
+
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      {{ post.feature-img }}
-      <div class="entry">
-        {{ page.date | date: "%B %e, %Y" }}
-        {{ post.excerpt }}
-        {{ page.tags | join: ', ' }}
-      </div>
+  <div class="post-teaser">
+    {% if post.thumbnail %} 
+    <div class="post-img">
+      <img src="{{ site.baseurl }}{{ post.thumbnail }}">
+    </div>
+    {% endif %}
+    <span>
+      <header>
+          <h1>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+        {{ post.title }}
+            </a>
+          </h1>
+          <p class="meta">
+            {{ post.date | date: "%B %-d, %Y" }}
+          </p>
+        </header>
+        <div class="excerpt">
+            {{ post.excerpt | strip_html | escape }}
+        </div>
       <hr />
-    </article>
+    </span>
+  </div>
   {% endfor %}
 </div>
