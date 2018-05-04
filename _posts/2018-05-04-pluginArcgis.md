@@ -1,13 +1,13 @@
 ---
 layout: posts
-title: Mapping the risk of burglary - a Python addin for ArcGIS
+title: Mapping burglary risk
 feature-img: "images/BurglaryRisk.png"
 thumbnail: "images/BurglaryRisk.png"
 tags: [Python, ArcGIS, arcpy]
 excerpt_separator: <!--more-->
 ---
 
-
+A Python addin for ArcGIS written with arcpy.
 <!--more-->
 
 
