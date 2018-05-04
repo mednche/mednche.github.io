@@ -1,11 +1,12 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
 }
 
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
 }
 
 body p {
