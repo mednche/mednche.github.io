@@ -11,7 +11,7 @@ title: Pojects
       <div class="entry">
         {{ page.date | date: "%B %e, %Y" }}
         {{ post.excerpt }}
-        {{ post.tags}}
+        {{ page.tags | join: ', ' }}
       </div>
       <hr />
     </article>
