@@ -7,7 +7,7 @@ tags: [Topic modelling, Brexit, tabloids]
 excerpt_separator: <!--more-->
 ---
 
-An application of Topic modelling to identify the relationship between topics in British tabloids and those on the twitter sphere.
+An application of Topic Modelling to identify the relationship between topics in British tabloids and those on the twitter sphere.
 <!--more-->
 
 
