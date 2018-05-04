@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: The language of Brexit
-feature-img: http://mednche.github.io/images/cover.png.jpg
+feature-img: https://github.com/mednche/mednche.github.io/images/cover.png.jpg
 date: "2018-05-04 18:08:41 +0200"
 tags: [Topic modelling, Brexit, tabloids]
 ---
