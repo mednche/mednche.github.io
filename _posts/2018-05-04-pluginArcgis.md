@@ -18,7 +18,7 @@ This addin buffers a burglary file and then list the houses in an area by chance
 This addin displays the houses with the highest risk as a choropleth map, coloured by risk, and an associated sorted table.
 
 <p align="center">
-  <img src="images/BurglaryRisk.png">
+  <img src="/images/BurglaryRisk.png">
 </p>
 
 More information can be found in the [Github repository](https://github.com/mednche/AdvancedProgrammingSkills/tree/master/AddinArcGIS)
