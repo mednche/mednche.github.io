@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: Hate speech on Twitter
+date: 2018-05-04
 tags: [NLP, Hate crime, classifier]
 excerpt_separator: <!--more-->
 ---
