@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Hate crime
 tags: [NLP, Hate crime, classifier]
 excerpt_separator: <!--more-->
