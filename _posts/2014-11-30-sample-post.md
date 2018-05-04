@@ -27,7 +27,7 @@ This analysis revealed that it is indeed possible to create an English language 
 However, the limited number of tweets with geotags identified as hateful by the classifier (*see Figure 1*) does not allow for as meaningful a geographical interpretation when considered at individual town level.
 
 <p align="center">
-  <img src="Densitymap.png" height="600">
+  <img src="/images/Densitymap.png" height="600">
 </p>
 <p align="center">
   <em>Figure 1: Density map of geotagged hateful tweets in Lancashire for the study period</em>
