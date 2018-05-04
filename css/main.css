@@ -33,6 +33,10 @@ a {
     text-decoration: none;
 }
 
+a.link {
+    color: #333
+}
+
 body a:hover {
     text-decoration: underline;
 }
