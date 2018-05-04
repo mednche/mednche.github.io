@@ -17,6 +17,10 @@ title: Pojects
             </a>
           </h1>
         
+          <p class="meta">
+            {{ post.date | date: "%B %-d, %Y" }}
+          </p>
+        
           {% if post.thumbnail %}
           <div class="post-img" style= "text-align:center";>
             <img src="{{ site.baseurl }}{{ post.thumbnail }}" height="300">
@@ -24,9 +28,7 @@ title: Pojects
           {% endif %}
         
         
-          <p class="meta">
-            {{ post.date | date: "%B %-d, %Y" }}
-          </p>
+          
         
         </header>
       
