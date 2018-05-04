@@ -17,5 +17,3 @@ title: IALEIA award
 The [IALEIA Award for Excellence category Individual](https://www.ialeia.org/awards.php) recognises individuals for outstanding contributions as intelligence analysts utilising intelligence products leading to the achievement of the organisation’s objectives.
 
 [Press article on Lancashire Police website](https://lancashire.police.uk/news/2018/april/international-success-for-talented-trio/)
-
-[<- Homepage](https://mednche.github.io)
