@@ -134,8 +134,8 @@ header .byline {
         }
 
             #nav > ul > li.active a {
-                /* color: white; */
-                color: #6ca0e8;
+                color: white;
+                /*color: #6ca0e8;/*
                 /*color: black;/*
             }
 
