@@ -2,12 +2,12 @@ body {
     margin: 60px auto;
     width: 70%;
     font-family: Fjord One; 
-    backrgound: #FFEFD5;
+    background: #FFEFD5;
 }
 
 h1 {
     font-size: 3em;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+    font-family: Fjord One; 
 }
 
 body p {
@@ -40,12 +40,6 @@ body a:hover {
 
 body a:visited {
     color: #333
-}
-
-.post-img {
-    padding: 0;
-    display: block;
-    margin: 0 auto;
 }
 
 excerpt {
