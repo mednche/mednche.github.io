@@ -8,14 +8,7 @@ excerpt_separator: <!--more-->
 An application of Natural Language Processing for identification of online hate on Twitter
 <!--more-->
 
-<p align="center">
-  Natacha Chenevoy, Carly Lightowlers and Nick Malleson
-  Univeristy of Leeds
-</p>
-<p align="center">
-  Univeristy of Leeds
-</p>
-
+Natacha Chenevoy, Carly Lightowlers and Nick Malleson - Univeristy of Leeds
 
 
 ### Project Background
