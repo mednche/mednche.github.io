@@ -1,8 +1,8 @@
 ---
 layout: posts
 title: The language of Brexit
-feature-img: images/cover.png
-date: "2018-05-04 18:08:41 +0200"
+feature-img: "images/cover.png"
+thumbnail: "images/cover.png"
 tags: [Topic modelling, Brexit, tabloids]
 ---
 
