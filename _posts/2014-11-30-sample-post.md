@@ -7,20 +7,50 @@ excerpt_separator: <!--more-->
 
 This is the short explantion of what the project does.
 <!--more-->
-Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
 
-* Consectetur adipiscing elit
-* Donec a diam lectus
-* Sed sit amet ipsum mauris
 
-Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
+<h1 align="center">
+  Application of Natural Language Processing for identification of online hate on Twitter
+</h1>
+<p align="center">
+  Natacha Chenevoy, Carly Lightowlers and Nick Malleson
+  Univeristy of Leeds
+</p>
+<p align="center">
+  Univeristy of Leeds
+</p>
 
-Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula *semper consectetur sagittis*, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum.
 
-Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.
 
-> Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
+### Project Background
+Understanding hate crime is a priority for police forces across England and Wales. Since the EU referendum in June 2016, there has been renewed emphasis on the importance of preventing hate crime and providing support for victims. The Home Office reported an increase of 29% in the number of hate crimes recorded between 2015-16 and 2016-17 which represents the largest increase since the Home Office began recording figures in 2011-12.
+The aim of this research was to investigate whether online hate on Twitter could be used as a proxy for ‘real life’ hate happening in Lancashire. The ambition of the project was to enable Lancashire Constabulary to harness new forms of social media data (Twitter) for their own analysis of hate crime in the area – e.g. to identify possible emerging community tensions early – by applying machine learning.
 
-Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt.
 
-Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.
+### Data and Methods
+The research was based on the spatial analysis of tweets sent by people in Lancashire during the study period (December 2015 to February 2017). These tweets were identified based on both the home town displayed on the profile of Twitter users and the precise geotags of where the tweets were sent from. In total, 1,246,918 tweets with a home town location and 389,410 tweets with a geotag were collected within the boundaries of Lancashire.
+A classifier was built using Natural Language Processing techniques to determine whether tweets contained hateful speech. This first involved training a machine learning algorithm with tweets that had been manually classified. The accuracy of the trained algorithm was then tested on new tweets for which the classification outcome was already known.
+Once the classifier was confirmed to have a reliable level of accuracy, it was applied to the Lancashire tweets. This identified hateful tweets which were displayed on density maps at county (*see Figure 1*) and town level.
+
+
+### Key Findings
+This analysis revealed that it is indeed possible to create an English language classifier which accurately identifies online hate speech on Twitter.
+However, the limited number of tweets with geotags identified as hateful by the classifier (*see Figure 1*) does not allow for as meaningful a geographical interpretation when considered at individual town level.
+
+<p align="center">
+  <img src="Densitymap.png" height="600">
+</p>
+<p align="center">
+  <em>Figure 1: Density map of geotagged hateful tweets in Lancashire for the study period</em>
+</p>
+
+
+### Value of the Research
+The learning from this project has emphasised the valuable information provided by social media data when dealing with under-reported crimes. Twitter produces real time data which is helpful in generating a spatial and temporal ‘temperature check’ of different localities.
+The algorithm developed in this project offers the potential to be used by Lancashire Constabulary to monitor levels of hate, thus ensuring resources can be allocated effectively to respond to emerging community tensions.
+
+
+### Link to the project code
+
+[Monitoring Hate Crime using Twitter](https://github.com/mednche/Hate-Crime-Project)
+
