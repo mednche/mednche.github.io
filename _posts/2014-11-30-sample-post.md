@@ -1,11 +1,11 @@
 ---
 layout: posts
-title: Application of Natural Language Processing for identification of online hate on Twitter
+title: Hate speech on Twitter
 tags: [NLP, Hate crime, classifier]
 excerpt_separator: <!--more-->
 ---
 
-This is the short explantion of what the project does.
+An application of Natural Language Processing for identification of online hate on Twitter
 <!--more-->
 
 <p align="center">
