@@ -115,7 +115,7 @@ header .byline {
     }
 
         #nav > ul > li a {
-            color: #FFF;
+            color: #FFFFFF;
             text-decoration: none;
             font-size: 1.2em;
         }
@@ -127,17 +127,6 @@ header .byline {
         #nav > ul > li:hover a {
             color: #fff;
         }
-
-        #nav > ul > li.active {
-            /*background: #3ac984;*/
-            /*background: #6ca0e8;*/
-        }
-
-            #nav > ul > li.active a {
-                color: white;
-                /*color: #6ca0e8;/*
-                /*color: black;/*
-            }
 
         #nav > ul > li > ul {
             display: none;
