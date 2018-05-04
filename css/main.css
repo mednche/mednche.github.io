@@ -45,10 +45,16 @@ body a:visited {
     color: #333
 }
 
-excerpt {
+.excerpt {
     font-size: 1.4em;
     line-height: 1em;
     color: #333;
+}
+
+.post-teaser p {
+    font-size: 1.6em;
+    line-height: 1em;
+    color: #D0D0D0;
 }
 
 /* Header */
