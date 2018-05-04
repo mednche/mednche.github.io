@@ -6,25 +6,34 @@ title: Pojects
 <div class="posts">
   {% for post in site.posts %}
   <div class="post-teaser">
-    {% if post.thumbnail %} 
-    <div class="post-img">
-      <img src="{{ site.baseurl }}{{ post.thumbnail }}" id = "teaserimg">
-    </div>
-    {% endif %}
+    
     <span>
+      
       <header>
+        
           <h1>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
         {{ post.title }}
             </a>
           </h1>
+        
+          {% if post.thumbnail %}
+          <div class="post-img">
+            <img src="{{ site.baseurl }}{{ post.thumbnail }}">
+          </div>
+          {% endif %}
+        
+        
           <p class="meta">
             {{ post.date | date: "%B %-d, %Y" }}
           </p>
+        
         </header>
+      
         <div class="excerpt">
             {{ post.excerpt | strip_html | escape }}
         </div>
+      
       <hr />
     </span>
   </div>
