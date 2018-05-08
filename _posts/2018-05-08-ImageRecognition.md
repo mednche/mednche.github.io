@@ -1,8 +1,8 @@
 ---
 layout: posts
 title: Image Recognition using Deep Learning
-feature-img: "images/I.png"
-thumbnail: "images/I.png"
+feature-img: "images/car.png"
+thumbnail: "images/car.png"
 tags: [deep learning, neural network, convolution, image recognition, tensorflow]
 excerpt_separator: <!--more-->
 ---
