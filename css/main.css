@@ -31,19 +31,13 @@ body li {
 
 a {
     text-decoration: none;
-}
-
-a.link {
     color: #333
 }
 
-body a:hover {
-    color:lightblue
+a:hover {
+    color:#04B486
 }
 
-body a:visited {
-    color: #333
-}
 
 .excerpt {
     font-size: 1.4em;
