@@ -27,7 +27,8 @@ ul.posts li {
 body li {
     font-size: 1.4em;
     line-height: 1em;
-    color: #333;}
+    color: #333;
+    margin: 0 0 3px 0;}
 
 a {
     text-decoration: none;
