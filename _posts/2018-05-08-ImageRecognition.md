@@ -87,9 +87,11 @@ Input -> Conv -> Relu -> Pool -> Conv -> Relu -> Pool -> FullyConnected -> Regre
 To be clear, one pass = one forward pass + one backward pass (the forward pass and backward pass are not counted as two different passes).
 
 ## Visualise the performances of the model using Tensorboard
-```
+
+<code>
 tensorboard --logdir='/tmp/tflearn_logs/HF0NPV/'
-```
+</code>
+
 ## Improvement
 
 Some make and models of vehicle in the dataset don't have many images to train the model on. A good solution is to use Data Augmentation Techniques. One example of this is to shift a given image left by 1 pixel. To the computer, this shift can be fairly significant in the terms of the pixels in the array. The classification (label) of the image doesn’t change, but the array does. There are many other ways to artificially expand a dataset. Some popular augmentations people use are grayscales, horizontal flips, vertical flips, random crops, color jitters, translations, rotations, and much more.
