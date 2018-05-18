@@ -38,7 +38,6 @@ The first step is to install a graphics card and the corresponding drivers on yo
 3. Then CuDNN (CUDA Deep Neural Network library) needs to be downloaded and "installed".
 
 4. Install TensorFlow-gpu and tflearn in an Anaconda environment running Python 3.5 
-
 ```
 conda install -c anaconda tensorflow-gpu
 python -m pip install tflearn
