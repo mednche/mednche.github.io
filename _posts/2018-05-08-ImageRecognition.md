@@ -11,7 +11,7 @@ Application of convolutional neural networks for image recognition of a car make
 <!--more-->
 
 <p align="center">
-  <img src="/images/car.png">
+  <img src="/images/car.png" height="300">
 </p>
 
 
