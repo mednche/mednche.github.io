@@ -30,30 +30,23 @@ This model is computationally demanding and requires to use TensorFlow on GPU (a
 I followed [this tutorial](https://www.codingforentrepreneurs.com/blog/install-tensorflow-gpu-windows-cuda-cudnn/) to install TensorFlow. 
 NB: TensorFlow-GPU runs on **Python 3.5** (but not for above versions as of 17/05/2018).
 
-1. Instal graphics card:
-The first step is to install a graphics card and the corresponding drivers on your computer
-
-2. Then CUDA needs to be installed. CUDA is a parallel computing platform and application programming interface model created by Nvidia. 
-
-3. Then CuDNN (CUDA Deep Neural Network library) needs to be downloaded and "installed".
-
-4. Install TensorFlow-gpu and tflearn in an Anaconda environment running Python 3.5 
-```
-conda install -c anaconda tensorflow-gpu
-python -m pip install tflearn
-```
-5. Install tensorboard (depending of your version of Tensorflow. I had do the following)
-```
-pip uninstall tensorflow-tensorboard
+<ol>
+  <li>The first step is to install a graphics card and the corresponding drivers on your computer</li>
+  <li>Then CUDA needs to be installed. CUDA is a parallel computing platform and application programming interface model created by Nvidia.</li>
+  <li>Then CuDNN (CUDA Deep Neural Network library) needs to be downloaded and "installed".</li>
+  <li>Install TensorFlow-gpu and tflearn in an Anaconda environment running Python 3.5 
+<code>conda install -c anaconda tensorflow-gpu
+  python -m pip install tflearn</code></li>
+   <li>Install tensorboard (depending of your version of Tensorflow. I had do the following)
+<code>pip uninstall tensorflow-tensorboard
 pip install tensorboard
-pip install --upgrade tensorboard
-```
-6. Install additional libraries
-```
-conda install matplotlib
+pip install --upgrade tensorboard</code></li>
+   <li>Install additional libraries
+<code>conda install matplotlib
 conda install pandas
-conda install -c anaconda scikit-learn 
-```
+conda install -c anaconda scikit-learn </code></li>
+</ol>
+
 NB: do not use conda forge to install any library (such as scikit-learn) as this will break your Anaconda and will lead to Spyder not working.
 
 
