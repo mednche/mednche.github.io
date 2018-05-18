@@ -21,4 +21,4 @@ This addin displays the houses with the highest risk as a choropleth map, colour
   <img src="/images/BurglaryRisk.png">
 </p>
 
-More information can be found in the [Github repository](https://github.com/mednche/AdvancedProgrammingSkills/tree/master/AddinArcGIS)
+More information can be found in the [**Github repository**](https://github.com/mednche/AdvancedProgrammingSkills/tree/master/AddinArcGIS)
