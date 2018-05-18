@@ -38,19 +38,19 @@ NB: TensorFlow-GPU runs on **Python 3.5** (but not for above versions as of 17/0
   <li>Then CuDNN (CUDA Deep Neural Network library) needs to be downloaded and "installed".</li>
   
   <li>Install TensorFlow-gpu and tflearn in an Anaconda environment running Python 3.5<br>
-<code>conda install -c anaconda tensorflow-gpu
+<code>conda install -c anaconda tensorflow-gpu<br>
   python -m pip install tflearn</code></li>
   
    <li>Install tensorboard (depending of your version of Tensorflow. I had do the following)<br>
   
-<code>pip uninstall tensorflow-tensorboard
-pip install tensorboard
+<code>pip uninstall tensorflow-tensorboard<br>
+pip install tensorboard<br>
 pip install --upgrade tensorboard</code></li>
 
    <li>Install additional libraries<br>
   
-<code>conda install matplotlib
-conda install pandas
+<code>conda install matplotlib<br>
+conda install pandas<br>
 conda install -c anaconda scikit-learn </code></li>
 </ol>
 
