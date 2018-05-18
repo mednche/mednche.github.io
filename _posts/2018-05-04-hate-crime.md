@@ -43,5 +43,5 @@ The algorithm developed in this project offers the potential to be used by Lanca
 
 ### Link to the project code
 
-[Monitoring Hate Crime using Twitter](https://github.com/mednche/Hate-Crime-Project)
+[**Monitoring Hate Crime using Twitter**](https://github.com/mednche/Hate-Crime-Project)
 
