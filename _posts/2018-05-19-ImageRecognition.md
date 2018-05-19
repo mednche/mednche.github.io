@@ -76,7 +76,6 @@ From here, the next steps are all in the Jupyter notebook called ***ImageRecogni
 ## Data pre-processing
 
 - The images in the dataset are very big (1918 x 1280). This is causing memory issues for the model. The images were thus resized to something more managable that nonetheless allows the visual recognition of a car make and model (450 x 250). The top part of the image displaying the name of the used car dealers company was cropped.
-
 - The labels in 'metadata.csv' are strings ("Acura", "TL"). These need to be converted to integers for the neural network. This is done in the section called "Recode car labels (make, model, id) into numbers instead of strings".
 
 ## Training the network
