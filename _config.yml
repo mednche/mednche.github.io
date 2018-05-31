@@ -15,3 +15,6 @@ defaults:
       
 gems:
   - jekyll-mentions
+
+plugins:
+  - jekyll-seo-tag
