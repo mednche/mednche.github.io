@@ -13,7 +13,7 @@ title: Pojects
         
           <h1>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-        {{ post.title }}
+              {{ post.title }}
             </a>
           </h1>
         
@@ -21,16 +21,11 @@ title: Pojects
             {{ post.date | date: "%B %-d, %Y" }}
           </p>
         
-          <div class="row">
-            <div class="column">
-              {% if post.thumbnail %}
-            </div>
-            <div class="column">
-              <img src="{{ site.baseurl }}{{ post.thumbnail }}" height="300">
-            </div>
-          </div>
-
-          {% endif %}
+        
+        {% if post.thumbnail %}
+        <img src="{{ site.baseurl }}{{ post.thumbnail }}" height="300" align="right">
+        
+        {% endif %}
         
         <br>
         
