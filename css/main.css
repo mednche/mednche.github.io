@@ -57,6 +57,7 @@ a:hover {
 .float-my-children > * {
     float:left;
     margin-right:5px;
+    width: 100%;
 }
 
 /* this is called a clearfix. it makes sure that the container's children floats are cleared, without using extra markup */
