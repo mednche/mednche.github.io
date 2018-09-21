@@ -8,7 +8,7 @@ I'm a PhD student in Data Science and Criminology based in the [Leeds Institute 
 
 My project involves the use of Agent-Based Modelling for situational crime prevention.
 
-I'm under the supervision of [Dr Daniel Birks](https://www.griffith.edu.au/criminology-law/school-criminology-criminal-justice/staff/dr-daniel-birks) and [Dr Nick Malleson](http://nickmalleson.co.uk/).
+I'm under the supervision of [Dr Daniel Birks](https://essl.leeds.ac.uk/law/staff/261/dr-daniel-birks) and [Dr Nick Malleson](http://nickmalleson.co.uk/).
 
 ## Research Interests
 
