@@ -42,11 +42,12 @@ body ol {
 
 a {
     text-decoration: none;
-    color: #333
+    color: #04B486
 }
 
 a:hover {
-    color:#04B486
+    color:#04B486;
+    text-decoration: underline;
 }
 
 
