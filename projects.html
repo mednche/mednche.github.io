@@ -31,12 +31,15 @@ title: Pojects
         </header>
 
       
-        <div class="excerpt-left">
-          {{ post.excerpt | strip_html | escape }}
+        <div class="excerpt">
+          <div class="column">
+            {{ post.excerpt | strip_html | escape }}
+          </div>
+          <div class="column">
+            <img src="{{ site.baseurl }}{{ post.thumbnail }}" height="300">
+          </div>
         </div>
-        <div class="excerpt-right">
-          <img src="{{ site.baseurl }}{{ post.thumbnail }}" height="300">
-        </div>
+        
       <br>
       
       <hr />
