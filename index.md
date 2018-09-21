@@ -10,6 +10,8 @@ My project involves the use of Agent-Based Modelling for situational crime preve
 
 I'm under the supervision of [Dr Daniel Birks](https://essl.leeds.ac.uk/law/staff/261/dr-daniel-birks) and [Dr Nick Malleson](http://nickmalleson.co.uk/).
 
+[My GitHub](https://github.com/mednche)
+
 ## Research Interests
 
 * Data Science
