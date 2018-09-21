@@ -30,17 +30,16 @@ title: Pojects
        
         </header>
 
-      
-        <div class="excerpt">
+     
           
-          <div id="qr" style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: middle;" >
-            <img src="{{ site.baseurl }}{{ post.thumbnail }}" height="300">
-          </div>
-          <div style="display:inline-block;vertical-align: middle;">
-            {{ post.excerpt | strip_html | escape }}
-          </div>
-          
-       </div>
+         <div id="qr" style="display:inline-block; align: center;vertical-align: middle;" >
+           <img src="{{ site.baseurl }}{{ post.thumbnail }}" height="300">
+         </div>
+         
+        <div style="display:inline-block;vertical-align: middle;">
+           {{ post.excerpt | strip_html | escape }}
+         </div>
+
       
       
         
