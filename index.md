@@ -4,7 +4,7 @@ title: Homepage
 ---
 
 ## About me
-I'm a PhD student in Data Science and Criminology based in the [Leeds Institute of Data Analytics](https://lida.leeds.ac.uk/) (University of Leeds). 
+I'm a PhD student in Data Science and Criminology based in the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk/) (University of Leeds). 
 
 My project involves building an Agent-Based Model to explore the effectivness of varying police call-for-service response strategies.
 
