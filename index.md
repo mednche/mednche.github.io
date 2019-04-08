@@ -6,16 +6,16 @@ title: Homepage
 ## About me
 I'm a PhD student in Data Science and Criminology based in the [Leeds Institute of Data Analytics](https://lida.leeds.ac.uk/) (University of Leeds). 
 
-My project involves the use of Agent-Based Modelling for situational crime prevention.
+My project involves building an Agent-Based Model to explore the effectivness of varying police call-for-service response strategies.
 
-I'm under the supervision of [Dr Daniel Birks](https://essl.leeds.ac.uk/law/staff/261/dr-daniel-birks) and [Dr Nick Malleson](http://nickmalleson.co.uk/).
+I'm under the supervision of [Dr Daniel Birks](https://essl.leeds.ac.uk/law/staff/261/dr-daniel-birks) and [Prof Nick Malleson](http://nickmalleson.co.uk/).
 
 [My GitHub](https://github.com/mednche)
 
 ## Research Interests
 
 * Data Science
-* Machine learning (NLP, image recognition, web scraping, neural networks)
+* Machine learning (NLP, image recognition, web scraping, neural networks, Generative Adversarial Networks)
 * Agent-Based Modelling 
 * Data visualisation
 * Spatial analysis
@@ -31,7 +31,7 @@ I'm under the supervision of [Dr Daniel Birks](https://essl.leeds.ac.uk/law/staf
 * [LIDA seminar on Crime Analytics - 7th December 2017](https://lida.leeds.ac.uk/event/crime-analytics-2/)
 * [LIDA seminar - 18th May 2017](https://lida.leeds.ac.uk/event/lida-intern-seminar-4/)
 
-## Events
+## Conferences & Events
 * [Data Study Group week at the Alan Turing Institute (December 2017)](https://www.turing.ac.uk/data-study-groups/)
 * [2018 LEIU/IALEIA Annual Training event (Anaheim, California  - April 2018)](https://www.ialeia.org/registration_agenda.php): invited to receive an IALEIA Award for Excellence (category: Individual).
 
