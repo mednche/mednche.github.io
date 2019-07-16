@@ -27,7 +27,7 @@ I'm under the supervision of [Dr Daniel Birks](https://essl.leeds.ac.uk/law/staf
 
 ## Talks and presentations
 * Environmental Criminology and Crime Analysis (ECCA) symposium, Guangzhou (China) - June 2019
-* [Leeds Doctoral College Showcase: Poster competition, University of Leeds - 14th May 2019](http://www.leeds.ac.uk/info/130558/leeds_doctoral_college/514/leeds_doctoral_college_showcase)
+* [Leeds Doctoral College Showcase: poster competition, University of Leeds - 14th May 2019](http://www.leeds.ac.uk/info/130558/leeds_doctoral_college/514/leeds_doctoral_college_showcase)
 * [Data Science Engagement and Employability (SEEC) conference, University of Leeds - 8th May 2019](https://www.leedsdatascience.com/conference)
 * Hate Crime knowledge exchange, Lancashire Constabulary (Preston, UK) - 26th April 2018
 * [Hate Crime Conference, University of Central Lancashire (Preston, UK) - 7th February 2018](https://www.eventbrite.co.uk/e/hate-crime-conference-tickets-42034378959)
