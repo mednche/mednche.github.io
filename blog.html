@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>TITLE</title>
+		<title>Natacha Chenevoy's homepage</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="css/main2.css" />
@@ -34,71 +34,57 @@
 					</ul>
 				</nav>
 
+				
+				
+				
+				
+				
 									<!-- One -->
 					<section id="One">
 						<h2>Blog</h2>
+						
+						
+						
+						
+						
 						<div class="row">
-							<article class="6u 12u$(xsmall) work-item">
-								<a href="files/TfL_bike_scraper" class="image fit thumb"><img src="images/thumbs/07.jpg" alt="" /></a>
-								<!--<a href="https://medium.com/@kklmmr/digital-decentralization-a-lingering-revolution-c92b08efabf7" class="image fit thumb"><img src="images/thumbs/03.jpeg" alt="" />-->
-								<h3>Mining London cycle hire data in R using PhantomJS</h3>
-								<p>This tutorial introduces a quick and efficient method to access large file dumps from JavaScript driven webpages in R. I developed the script to download the extensive cycle hire dataset from TfL's open data portal, however the code can easily be adapted to fit any web-based file dump.</p>
+							
+							
+							{% for post in site.posts %}
+							<article class="post">    
+
+							    <a href="images/" class="image fit thumb"><img src="{{post.thumbnail}}" alt="" /></a>
+								<h3>Post title: {{ post.title }}</h3>
+								<p>Post teaser: {{ post.teaser }}</p>
 								<ul class="actions">
-									<li><a href="files/TfL_bike_scraper" class="button">Read more</a></li>
+									<li><a href="{{ post.url }}" class="button">Read more</a></li>
 								</ul>
-							</article>
-							<article class="6u$ 12u$(xsmall) work-item">
-								<a href="files/Large_scale_OSM_in_R" class="image fit thumb"><img src="images/thumbs/05.png" alt="" /></a>
-								<!--<a href="images/blog/03.png" class="image fit thumb"><img src="images/thumbs/05.png" alt="" /></a>-->
-								<h3>Setting up large scale OSM environments for R using Osmosis and PostgreSQL with PostGIS</h3>
-								<p>Integrating large datasets in R can sometimes be very tricky, especially when it comes to geographical data. As a convenient solution, here comes my tutorial on setting up a database environment for OSM data in PostgreSQL and how to access this data in R. You can either access it on my website (click 'read more') or via the R blog <a href="http://r-spatial.org/2017/07/14/Large_scale_OSM_in_R.html">r-spatial</a>.
-								</p>
-								<ul class="actions">
-									<li><a href="files/Large_scale_OSM_in_R" class="button">Read more</a></li>
-								</ul>
-							</article>
-								<article class="6u 12u$(xsmall) work-item">
-								<a href="images/blog/01.jpeg" class="image fit thumb"><img src="images/thumbs/03.jpeg" alt="" /></a>
-								<!--<a href="https://medium.com/@kklmmr/digital-decentralization-a-lingering-revolution-c92b08efabf7" class="image fit thumb"><img src="images/thumbs/03.jpeg" alt="" />-->
-								<h3>Digital decentralization:  lingering revolution</h3>
-								<p>While all over the world, people marvel at self-driving cars and 3D-printers, a less glamorous yet much more far-reaching change emerges in the background of digitalization. Technological innovation will fundamentally convert our understanding of institutions.</p>
-								<ul class="actions">
-									<li><a href="https://medium.com/@kklmmr/digital-decentralization-a-lingering-revolution-c92b08efabf7" class="button">Read more</a></li>
-								</ul>
-							</article>
-							<article class="6u$ 12u$(xsmall) work-item">
-								<!--<a href="images/blog/02.png" class="image fit thumb"><img src="images/thumbs/04.png" alt="" /></a>-->
-								<a href="files/ml_intro" class="image fit thumb"><img src="images/thumbs/04.png" alt="" /></a>
-								<h3>Introduction to Machine Learning in R</h3>
-								<p>This tutorial is the transcript of a Machine Learning workshop I hosted as a part of the <a href="https://union.ic.ac.uk/guilds/icdss/">Imperial College Data Science Society (ICDSS)</a> talent development programme. The event aimed at conveying a basic understanding of Machine Learning (K-means Clustering, ANNs and SVMs) using comprehensive case studies. This document targets Machine Learning beginners and requires some elementary experience with R.
-								<ul class="actions">
-									<li><a href="files/ml_intro" class="button">Read more</a></li>
-								</ul>
-							</article>
+							
+							  </article>
+							{% endfor %}
+							
+
 						</div>
+						
 						<!-- READ MORE BUTTON
 							<ul class="actions">
 							<li><a href="#" class="button">Full Portfolio</a></li>
 						</ul>-->
+						
 					</section>
 
+				
+				
+				
+				
+				
+				
+				
 				<!-- Two -->
 					<section id="Two">
 						<h2>Get In Touch</h2>
 						<p>Interested in my research, potential collaborations or any other engagement? I am looking forward to hearing from you!</p>
 						<div class="row">
-							<!--<div class="8u 12u$(small)">
-								 <form method="post" action="mailto:konstantin.klemmer@gmx.de">
-									<div class="row uniform 50%">
-										<div class="6u 12u$(xsmall)"><input type="text" name="name" id="name" placeholder="Name" /></div>
-										<div class="6u$ 12u$(xsmall)"><input type="email" name="email" id="email" placeholder="Email" /></div>
-										<div class="12u$"><textarea name="message" id="message" placeholder="Message" rows="4"></textarea></div>
-									</div>
-								</form>
-								<ul class="actions">
-									<li><input type="submit" value="Send Message" /></li>
-								</ul>
-							</div> -->
 							<div class="4u$ 12u$(small)">
 								<ul class="labeled-icons">
 									<li>
@@ -115,6 +101,10 @@
 						</div>
 					</section>
 
+				
+				
+				
+				
 			<!-- Footer -->
 			<footer id="footer">
 				<div class="inner">
@@ -128,6 +118,8 @@
 				</div>
 			</footer>
 
+				
+				
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.poptrox.min.js"></script>
