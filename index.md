@@ -12,7 +12,7 @@ I'm under the supervision of [Dr Daniel Birks](https://essl.leeds.ac.uk/law/staf
 
 [My GitHub](https://github.com/mednche)
 
-## Research Interests
+## Research interests
 
 * Data Science
 * Machine learning (NLP, Genetic Algortihms, image recognition, web scraping, neural networks, Generative Adversarial Networks)
