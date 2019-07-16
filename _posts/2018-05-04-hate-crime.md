@@ -4,6 +4,7 @@ title: Hate speech on Twitter
 feature-img: "images/twitter-hate.png"
 thumbnail: "images/twitter-hate.png"
 tags: [NLP, Hate crime, classifier]
+teaser: An application of Natural Language Processing for identification of online hate on Twitter
 excerpt_separator: <!--more-->
 ---
 
