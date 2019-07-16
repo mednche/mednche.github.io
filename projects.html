@@ -5,40 +5,15 @@ title: Pojects
 
 <div class="posts">
   {% for post in site.posts %}
-  <div class="post-teaser">
+  <article class="post">    
     
-    <span>
-      
-      <header>
-        
-          <h1>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-              {{ post.title }}
-            </a>
-          </h1>
-        
-          <p class="meta">
-            {{ post.date | date: "%B %-d, %Y" }}
-          </p>
-        
-        
-        {% if post.thumbnail %}
-        
-        {% endif %}
-        
-        <br>
-       
-      </header>
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="clearfix float-my-children">
-         <img src="{{ site.baseurl }}{{ post.thumbnail }}" width="50%">
-         <div width=10>{{ post.excerpt | strip_html | escape }}</div>
-      </div>
-        
-      <br>
-      
-      <hr />
-    </span>
-  </div>
+    <div class="entry">
+      {{ post.content | truncatewords:40}}
+    </div>
+    
+    <a href="{{ post.url }}" class="read-more">Read More</a>
+  </article>
   {% endfor %}
 </div>
