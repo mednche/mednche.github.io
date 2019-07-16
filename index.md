@@ -27,17 +27,17 @@ I'm under the supervision of [Dr Daniel Birks](https://essl.leeds.ac.uk/law/staf
 
 ## Talks and presentations
 * Environmental Criminology and Crime Analysis (ECCA) symposium, Guangzhou (China) - June 2019
-* [Leeds Doctoral College Showcase: poster competition, University of Leeds - 14th May 2019](http://www.leeds.ac.uk/info/130558/leeds_doctoral_college/514/leeds_doctoral_college_showcase)
+* [Leeds doctoral college showcase: poster competition, University of Leeds - 14th May 2019](http://www.leeds.ac.uk/info/130558/leeds_doctoral_college/514/leeds_doctoral_college_showcase)
 * [Data Science Engagement and Employability (SEEC) conference, University of Leeds - 8th May 2019](https://www.leedsdatascience.com/conference)
-* Hate Crime knowledge exchange, Lancashire Constabulary (Preston, UK) - 26th April 2018
-* [Hate Crime Conference, University of Central Lancashire (Preston, UK) - 7th February 2018](https://www.eventbrite.co.uk/e/hate-crime-conference-tickets-42034378959)
-* [LIDA seminar on Crime Analytics, University of Leeds - 7th December 2017](https://lida.leeds.ac.uk/event/crime-analytics-2/)
+* Hate crime knowledge exchange, Lancashire Constabulary (Preston, UK) - 26th April 2018
+* [Hate crime conference, University of Central Lancashire (Preston, UK) - 7th February 2018](https://www.eventbrite.co.uk/e/hate-crime-conference-tickets-42034378959)
+* [LIDA seminar on crime analytics, University of Leeds - 7th December 2017](https://lida.leeds.ac.uk/event/crime-analytics-2/)
 * [LIDA seminar, University of Leeds - 18th May 2017](https://lida.leeds.ac.uk/event/lida-intern-seminar-4/)
 
 ## Conferences & Events attended
 * [Knowledge Discovery and Data Mining (KDD) - August 2019](https://www.kdd.org/kdd2019/)
-* [Data Study Group week at the Alan Turing Institute (December 2017)](https://www.turing.ac.uk/data-study-groups/)
-* [2018 LEIU/IALEIA Annual Training event (Anaheim, California  - April 2018)](https://www.ialeia.org/registration_agenda.php): invited to receive an IALEIA Award for Excellence (category: Individual).
+* [Data study group week at the Alan Turing Institute (December 2017)](https://www.turing.ac.uk/data-study-groups/)
+* [2018 LEIU/IALEIA annual training event (Anaheim, California  - April 2018)](https://www.ialeia.org/registration_agenda.php): invited to receive an IALEIA Award for Excellence (category: Individual).
 
 
 
