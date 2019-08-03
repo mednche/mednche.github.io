@@ -11,10 +11,6 @@ excerpt_separator: <!--more-->
 Application of convolutional neural networks for image recognition of a car make and model using TensorFlow.
 <!--more-->
 
-<p align="center">
-  <img src="/images/car.png" height="300">
-</p>
-
 This script trains a convolutional neural network model to recognise a vehicle's make and model. This was done using Google's [Tensorflow](https://www.tensorflow.org/) and [TFlearn](http://tflearn.org/), a deep learning library built on top of Tensorflow. 
 
 ## Dataset
