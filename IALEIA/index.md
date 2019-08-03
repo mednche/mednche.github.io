@@ -19,6 +19,8 @@ The [IALEIA Award for Excellence category Individual](https://www.ialeia.org/awa
 
 Work products in this category can include publications, investigative support materials, threat assessments, innovative training curriculum, etc.
 
+
+
 #### Criteria for this award category are:
 * Initiative and perseverance in stimulating interest of analysts, investigators or prosecutors through analysis or crime activity.
 
