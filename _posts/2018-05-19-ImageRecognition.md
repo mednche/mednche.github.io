@@ -1,8 +1,8 @@
 ---
 layout: posts
 title: Image Recognition using Deep Learning
-feature-img: "images/car.png"
-thumbnail: "images/thumbs/car.png"
+feature-img: "/images/car.png"
+thumbnail: "/images/thumbs/car.png"
 tags: [deep learning, neural network, convolution, image recognition, tensorflow]
 teaser: Application of convolutional neural networks for image recognition of a car make and model using TensorFlow.
 excerpt_separator: <!--more-->
