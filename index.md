@@ -8,9 +8,7 @@ I'm a PhD student in Data Science and Criminology based in the [Leeds Institute 
 
 My project involves exploring police spactiotemporal resource allocation problems. More specifically, I'm looking at police dispatch strategies in responding to calls for service.
 
-I'm under the supervision of [Dr Daniel Birks](https://essl.leeds.ac.uk/law/staff/261/dr-daniel-birks) and [Prof Nick Malleson](http://nickmalleson.co.uk/).
-
-[My GitHub](https://github.com/mednche)
+I'm under the supervision of [Assoc. Prof. Daniel Birks](https://essl.leeds.ac.uk/law/staff/261/dr-daniel-birks) and [Prof. Nick Malleson](http://nickmalleson.co.uk/).
 
 ## Research interests
 
