@@ -1,10 +1,10 @@
 ---
 layout: posts
-title: IALEIA award
+title: IALEIA award 2018
 feature-img: "/images/blog/award-winners-ialeia.jpg"
 thumbnail: "/images/blog/thumbs/award-winners-ialeia.jpg"
 tags: [Conference, Award, Travel]
-teaser: 2018 international award from the International Association for Law Enforcement and Intelligence Analysts.
+teaser: International award from the International Association for Law Enforcement and Intelligence Analysts.
 blog: true
 
 ---
