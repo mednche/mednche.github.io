@@ -5,7 +5,7 @@ title: IALEIA award
 
 
 <h2 align="center">
-  2018 international award from IALEIA <br> (International Association for Law Enforcement Analysts)
+  2018 international award from IALEIA <br> (International Association for Law Enforcement and Intelligence Analysts)
 </h2>
 
 <p align="center">
@@ -16,4 +16,4 @@ title: IALEIA award
 
 The [IALEIA Award for Excellence category Individual](https://www.ialeia.org/awards.php) recognises individuals for outstanding contributions as intelligence analysts utilising intelligence products leading to the achievement of the organisation’s objectives.
 
-[Press article on Lancashire Police website](https://lancashire.police.uk/news/2018/april/international-success-for-talented-trio/)
+[Press article on Lancashire Police website](https://ormskirk.qlocal.co.uk/ormskirk/news_photo/International_success_for_talented_Police_trio-55030297.htm)
