@@ -2023,11 +2023,6 @@
 
 /* Image */
 
-	img {
-	    max-width: 80%;
-	    max-height: 80%;
-	}
-
 	.image_logo { 
 		float: left;
 		margin-right: 10px; 
@@ -2142,6 +2137,10 @@
 				border-radius: 100%;
 				width: 100%;
 			}
+
+		.image.figure img {
+			width: 80%;
+		}
 
 /* List */
 
