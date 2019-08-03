@@ -2138,11 +2138,11 @@
 				width: 100%;
 			}
 
-		.image.figure img {
-			align:center;
-			width: 80%;
-			padding:5em
-		}
+	img.figure {
+		align:center;
+		width: 80%;
+		padding:5em
+	}
 
 /* List */
 
