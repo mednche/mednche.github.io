@@ -33,3 +33,9 @@ Work products in this category can include publications, investigative support m
 
 
 [Press article on Lancashire Police website](https://ormskirk.qlocal.co.uk/ormskirk/news_photo/International_success_for_talented_Police_trio-55030297.htm)
+
+*Natacha Chenevoy, a PhD student in data science and criminology at the University of Leeds, helped to support Lancashire Constabulary by monitoring hate in the county using social media. 
+
+*Natacha, who scooped the IALEIA award for Excellence: category Individual, developed a machine learning algorithm which captures hate speech on Twitter. Her algorithm identifies hotspots of online hate and can be used to monitor the level of hate speech on Twitter in real time. 
+
+*Natacha’s work was part of the N8 Police Research Partnership, an organisation which uses the knowledge of researchers to improve policing in the North of England. 
