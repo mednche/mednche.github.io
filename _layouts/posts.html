@@ -5,51 +5,57 @@
 		<!-- <title>{{ page.title }}</title> -->
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-			<link rel="stylesheet" href="{{ site.baseurl }}/css/main2.css" />
+			<link rel="stylesheet" href="{{ site.baseurl }}../css/main2.css" />
 		</noscript>
 		
-	</head>
+  </head>
   
-  <body>
-    <!-- Header -->
-    <div id="header">
-        <div class="container">
-            <!-- Logo -->
-
-            <!--<h1><a href="#" id="logo">{{ page.title }}</a></h1>
-	<h1><a href="{{ site.baseurl }}/index.html" id="logo">Natacha Chenevoy's Homepage</a></h1>-->
-
-            <h1>Natacha Chenevoy's Homepage</h1>
-
-            {% include nav.html %}
-
-        </div>
-    </div>
+<body>
+	  
+	<!-- Left header -->
+	<header id="header">
+		<div class="inner">
+			<a href="#" class="image avatar"><img src="images/photo.png" alt="" /></a>
+			<h1><strong>Data Science &</strong><br />
+			<strong>Criminology</strong><br>
+			PhD student at<br />
+			<a href="https://essl.leeds.ac.uk/law/pgr/830/natacha-chenevoy">University of Leeds</a>.
+			</h1>
+		</div>
+	</header>
 
 
-    <section class="main-content">
-      <div class="wrapper">
-        
-        <article class="post">
-          <h1>{{ page.title }}</h1>
+	<!-- Main -->
+	<div id="main">
+		<!-- Menu -->
+		<nav id="nav-menu">
+			<ul>
+				<li><a href="https://mednche.github.io/blog.html">Projects</a></li>
+				<li><a href="https://mednche.github.io">Home</a></li>
+			</ul>
+		</nav>
 
-          <div class="entry">
-            {{ content }}
-          </div>
+		<!-- Content -->
+		<section class="main-content">
+			<div class="wrapper">
+				<article class="post">
+				  <h1>{{ page.title }}</h1>
 
-          <div class="date">
-            Written on {{ page.date | date: "%B %e, %Y" }}
-          </div>
+				  <div class="entry">
+				    {{ content }}
+				  </div>
 
-        </article>
+				  <div class="date">
+				    Written on {{ page.date | date: "%B %e, %Y" }}
+				  </div>
 
-        
-        
-      </div>
-    </div>
+				</article>
+			</div>
+		</section>
+		
+	</div>
 
     {% include footer.html %}
-
-
+				
   </body>
 </html>
