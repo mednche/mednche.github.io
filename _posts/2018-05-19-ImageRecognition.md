@@ -5,11 +5,9 @@ feature-img: "/images/car.png"
 thumbnail: "/images/thumbs/car.png"
 tags: [deep learning, neural network, convolution, image recognition, tensorflow]
 teaser: Application of convolutional neural networks for image recognition of a car make and model using TensorFlow.
-excerpt_separator: <!--more-->
+
 ---
 
-Application of convolutional neural networks for image recognition of a car make and model using TensorFlow.
-<!--more-->
 
 This script trains a convolutional neural network model to recognise a vehicle's make and model. This was done using Google's [Tensorflow](https://www.tensorflow.org/) and [TFlearn](http://tflearn.org/), a deep learning library built on top of Tensorflow. 
 
