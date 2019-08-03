@@ -13,11 +13,14 @@ title: IALEIA award
 </p>
 
 
+
+
 #### Award for Excellence
 
 The [IALEIA Award for Excellence category Individual](https://www.ialeia.org/awards.php) recognises individuals for outstanding contributions as intelligence analysts utilising intelligence products leading to the achievement of the organisation’s objectives.
 
 Work products in this category can include publications, investigative support materials, threat assessments, innovative training curriculum, etc.
+
 
 
 
