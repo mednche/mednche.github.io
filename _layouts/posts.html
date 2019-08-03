@@ -27,13 +27,15 @@
 				<article class="post">
 				  <h1>{{ page.title }}</h1>
 					
-				<p align="center">
-					{{ page.feature-img }}
-				</p>
-
-
-				  <div class="entry">
-				    {{ content }}
+				<div class="entry">
+					
+					{{ page.teaser}}
+					
+					<p align="center">
+						{{ page.feature-img }}
+					</p>
+					
+				    	{{ content }}
 				  </div>
 
 				  <div class="date">
