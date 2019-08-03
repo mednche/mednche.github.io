@@ -15,7 +15,7 @@ defaults:
   -
     scope:
       path: '_posts/'
-    values: 
+    values:
       layout: 'default'
       
 gems:
