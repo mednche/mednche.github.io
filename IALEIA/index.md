@@ -13,12 +13,13 @@ title: IALEIA award
 </p>
 
 
+#### Award for Excellence
 
 The [IALEIA Award for Excellence category Individual](https://www.ialeia.org/awards.php) recognises individuals for outstanding contributions as intelligence analysts utilising intelligence products leading to the achievement of the organisation’s objectives.
 
 Work products in this category can include publications, investigative support materials, threat assessments, innovative training curriculum, etc.
 
-### Criteria for this award category are:
+#### Criteria for this award category are:
 * Initiative and perseverance in stimulating interest of analysts, investigators or prosecutors through analysis or crime activity.
 
 * Sophistication and diligence in the use of analytical techniques in support of investigations.
@@ -32,7 +33,7 @@ Work products in this category can include publications, investigative support m
 
 
 
-[Press article by Lancashire Police](https://ormskirk.qlocal.co.uk/ormskirk/news_photo/International_success_for_talented_Police_trio-55030297.htm)
+#### [Press article by Lancashire Police](https://ormskirk.qlocal.co.uk/ormskirk/news_photo/International_success_for_talented_Police_trio-55030297.htm)
 
 *Natacha Chenevoy, a PhD student in data science and criminology at the University of Leeds, helped to support Lancashire Constabulary by monitoring hate in the county using social media.*
 
