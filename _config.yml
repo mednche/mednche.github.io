@@ -12,6 +12,10 @@ defaults:
       path: ''
     values:
       layout: 'default'
+  -
+    scope:
+          path: "_posts/"
+      values: 'default'
       
 gems:
   - jekyll-mentions
