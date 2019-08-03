@@ -5,11 +5,8 @@ feature-img: "/images/BurglaryRisk.png"
 thumbnail: "/images/thumbs/BurglaryRisk.png"
 tags: [Python, ArcGIS, arcpy]
 teaser: A Python addin for ArcGIS written with arcpy.
-excerpt_separator: <!--more-->
----
 
-A Python addin for ArcGIS written with arcpy.
-<!--more-->
+---
 
 
 Manchester police, based on work by a variety of people, have found that in general, if somewhere is burgled, there is an increased risk of burglary for the houses within 400m of the burgled house for up to 4 weeks. This is known as the Trafford Model.
