@@ -5,13 +5,9 @@ feature-img: "/images/twitter-hate.png"
 thumbnail: "/images/thumbs/twitter-hate.png"
 tags: [NLP, Hate crime, classifier]
 teaser: An application of Natural Language Processing for identification of online hate on Twitter
-excerpt_separator: <!--more-->
+
 ---
 
-An application of Natural Language Processing for identification of online hate on Twitter
-<!--more-->
-
-Natacha Chenevoy, Carly Lightowlers and Nick Malleson - Univeristy of Leeds
 
 
 ### Project Background
