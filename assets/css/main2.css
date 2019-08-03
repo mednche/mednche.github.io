@@ -2139,9 +2139,11 @@
 			}
 
 	img.figure {
-		align:center;
-		width: 80%;
-		padding:5em
+		width: 100%;
+		padding: 3em;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 /* List */
