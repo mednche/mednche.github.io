@@ -17,6 +17,11 @@ defaults:
       path: '_posts/'
     values:
       layout: 'default'
+  - 
+    scope:
+      path: "_posts/blog"
+    values:
+      blog: "true"
       
 gems:
   - jekyll-mentions
