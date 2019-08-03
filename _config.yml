@@ -22,6 +22,11 @@ defaults:
       path: "_posts/blog"
     values:
       blog: "true"
+  - 
+    scope:
+      path: "_posts/project"
+    values:
+      blog: "false"
       
 gems:
   - jekyll-mentions
