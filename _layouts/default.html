@@ -13,28 +13,14 @@
   
  <body>
 	  
-	<!-- Left header -->
-	<header id="header">
-		<div class="inner">
-			<a href="#" class="image avatar"><img src="images/photo.png" alt="" /></a>
-			<h1><strong>Data Science &</strong><br />
-			<strong>Criminology</strong><br>
-			PhD student at<br />
-			<a href="https://essl.leeds.ac.uk/law/pgr/830/natacha-chenevoy">University of Leeds</a>.
-			</h1>
-		</div>
-	</header>
+	{% include header.html %}
 
 
 	<!-- Main -->
 	<div id="main">
+		
 		<!-- Menu -->
-		<nav id="nav-menu">
-			<ul>
-				<li><a href="https://mednche.github.io/blog.html">Projects</a></li>
-				<li><a href="https://mednche.github.io">Home</a></li>
-			</ul>
-		</nav>
+		{% include nav.html %}
 
 		<!-- Content -->
 		<section class="main-content">
@@ -43,7 +29,7 @@
 			</div>
 		</section>
 		
-		
+		<!-- Get in touch -->
 		{% include footer.html %}
 
 	</div>
