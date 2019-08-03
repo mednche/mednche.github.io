@@ -8,7 +8,9 @@ title: Blog
 	<h2>Projects</h2>
 
 		<div class="row">
-			{% for post in blog.posts %}
+			{% assign blogposts = site.posts | where:"blog", "true" %}
+			
+			{% for post in blogposts %}
 
 			<article class="6u 12u$(xsmall) work-item">    
 
