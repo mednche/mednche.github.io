@@ -1,15 +1,12 @@
 ---
 layout: posts
-small-title: Hate speech on Twitter.
-big-title: Hate speech on Twitter: An application of Natural Language Processing for identification of online hate.
+small-title: Hate speech on Twitter
+big-title: Hate speech on Twitter: an application of Natural Language Processing for identification of online hate
 feature-img: "/images/project/twitter-hate.png"
 thumbnail: "/images/project/thumbs/twitter-hate.png"
 tags: [NLP, Hate crime, classifier]
 teaser: An application of Natural Language Processing for identification of online hate on Twitter
-
 ---
-
-
 
 ### Project Background
 Understanding hate crime is a priority for police forces across England and Wales. Since the EU referendum in June 2016, there has been renewed emphasis on the importance of preventing hate crime and providing support for victims. The Home Office reported an increase of 29% in the number of hate crimes recorded between 2015-16 and 2016-17 which represents the largest increase since the Home Office began recording figures in 2011-12.
