@@ -1,7 +1,7 @@
 ---
 layout: posts
 small-title: Hate speech on Twitter
-big-title: Hate speech on Twitter: an application of Natural Language Processing for identification of online hate
+big-title: Hate speech on Twitter - an application of Natural Language Processing for identification of online hate
 feature-img: "/images/project/twitter-hate.png"
 thumbnail: "/images/project/thumbs/twitter-hate.png"
 tags: [NLP, Hate crime, classifier]
