@@ -4,11 +4,12 @@ small-title: The language of Brexit
 big-title: Identifying the relationship between topics in British tabloids and those on Ttwitter 
 feature-img: "/images/blog/brexit.png"
 thumbnail: "/images/blog/thumbs/brexit.png"
-tags: [Topic modelling, Brexit, tabloids]
+tags: [topic modelling, brexit]
 teaser: An application of Topic Modelling to identify the relationship between topics in British tabloids and those on Twitter 
+intro: coming soon!
 ---
 
 
-Coming soon!
+
 
 
