@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: blog
 small-title: The language of Brexit
 big-title: Identifying the relationship between topics in British tabloids and those on Ttwitter 
 feature-img: "/images/blog/brexit.png"
