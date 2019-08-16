@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: blog
 small-title: IALEIA award 2018
 big-title: International award from the International Association for Law Enforcement and Intelligence Analysts
 feature-img: "/images/blog/award-winners-ialeia.jpg"
