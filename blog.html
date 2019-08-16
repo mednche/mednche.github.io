@@ -18,6 +18,17 @@ title: Blog
 				<h3>{{ post.small-title }}</h3>
 				<p>{{ post.teaser }}</p>
 				
+				<small>
+					<h5><i class="icon-tags"></i> 
+						{% for tag in post.tags %}
+	      						| <a href="/tags#{{ tag }}" title="View posts tagged with &quot;{{tag}}&quot;"><u>{{ tag }}</u></a> |  
+							{% if forloop.last != true %} 
+	      						{% endif %} 
+						{% endfor %}
+					</h5>
+				</small>
+				
+				
 				</br>
 				<ul class="actions">
 					<li><a href="{{ post.url }}" class="button">Read more</a></li>
