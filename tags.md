@@ -33,8 +33,10 @@ to the `site_tags` variable. -->
         <span style="float: right;">
           {{ post.date | date_to_string }}
         </span>
-        </br>  
       </div>
+  
+      </br>
+      
       <div style="clear: both;"></div>
     {% endif %}{% endfor %}
   {% endunless %}{% endfor %}
