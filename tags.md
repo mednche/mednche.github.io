@@ -23,8 +23,8 @@ to the `site_tags` variable. -->
 <!-- Posts by Tag -->
 <div>
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-    {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
-    <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
+    {% capture this_word %}{{ tag_words[item]}}{% endcapture %}
+    <h2 id="{{ this_word }}">{{ this_word }}</h2>
     {% for post in site.tags[this_word] %}{% if post.small-title != null %}
       <div>
         <span style="float: left;">
