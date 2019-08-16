@@ -5,12 +5,15 @@ big-title: International award from the International Association for Law Enforc
 feature-img: "/images/blog/award-winners-ialeia.jpg"
 thumbnail: "/images/blog/thumbs/award-winners-ialeia.jpg"
 tags: [Conference, Award, Travel]
-teaser: International award from the International Association for Law Enforcement and Intelligence Analysts.
+teaser: International award from the International Association for Law Enforcement and Intelligence Analysts - Los Angeles.
 blog: true
 
 ---
 
-#### Award for Excellence
+I was very fortunate to be given the opportunity to travel to Los Angeles to receive my international award at the IALEIA conference. Such a humbling experience!
+
+
+#### About the Award for Excellence
 
 The [IALEIA Award for Excellence category Individual](https://www.ialeia.org/awards.php) recognises individuals for outstanding contributions as intelligence analysts utilising intelligence products leading to the achievement of the organisation’s objectives.
 
