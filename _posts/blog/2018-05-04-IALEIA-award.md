@@ -6,11 +6,10 @@ feature-img: "/images/blog/award-winners-ialeia.jpg"
 thumbnail: "/images/blog/thumbs/award-winners-ialeia.jpg"
 tags: [Conference, Award, Travel]
 teaser: International award from the International Association for Law Enforcement and Intelligence Analysts - Los Angeles.
+intro: I was very fortunate to be given the opportunity to travel to Los Angeles to receive my international award at the IALEIA conference. Such a humbling experience!
 blog: true
 
 ---
-
-I was very fortunate to be given the opportunity to travel to Los Angeles to receive my international award at the IALEIA conference. Such a humbling experience!
 
 
 #### About the Award for Excellence
