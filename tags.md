@@ -27,9 +27,7 @@ to the `site_tags` variable. -->
     <h2 id="{{ this_word }}">{{ this_word }}</h2>
     {% for post in site.tags[this_word] %}{% if post.small-title != null %}
       <div>
-        <span style="float: left;">
           <a href="{{ post.url }}">{{ post.small-title }}</a>
-        </span>
         <span style="float: right;">
           {{ post.date | date_to_string }}
         </span>
