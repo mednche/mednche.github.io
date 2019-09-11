@@ -1,0 +1,120 @@
+<!doctype html>
+
+<html>
+
+	<head>
+
+		<meta charset="utf-8">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+        <meta name="author" content="Natacha Chenevoy">
+
+        <meta name="keywords" content="ABM, optimization">
+
+		<title>Good cop, better cop</title>
+
+
+		<link rel="stylesheet" href="./reveal/css/reveal.css">
+
+		<link rel="stylesheet" href="./reveal/css/theme/black.css">
+
+
+        
+        <!-- Some extra bits added by myself -->
+
+        <link rel="stylesheet" href="./reveal/css/custom.css">
+
+
+		<!-- Printing and PDF exports -->
+
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? './css/print/pdf.css' : './css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				
+				<!-- *****************************************************************
+                     ********************** 		Title 		**********************
+                     ***************************************************************** -->
+
+				<section class="title" id="title" data-background-image="./reveal/images/policecar-title.jpg">
+					<div id="right">
+                        <h1>Good cop, better cop:</h1>
+                        <h2>An optimisation approach to police dispatching</h2>
+                        <hr/>
+
+                         <h4>Natacha Chenevoy, Daniel Birks, Nicolas Malleson</h4>
+                        <h4>University of Leeds</h4>
+                    </div>
+                </section>
+
+
+				<section class="title" id="title" data-background-image="./reveal/images/UK-police-car-title-blur.jpg">
+                    <div class="blackbackground2">
+                    	<h1>Good cop, better cop:</h1>
+                        <h2>An optimisation approach to police dispatching</h2>
+                        <hr/>
+                        <h3>Natacha Chenevoy, Daniel Birks, Nicolas Malleson</h3>
+                        <h4>University of Leeds</h4>
+
+                        <a href="">
+                            <img style="height:70px; width:auto;" src="./reveal/images/esrc.png"/>
+                        </a>
+                        <a href="">
+                            <img style="height:70px; width:auto;" src="./reveal/images/uni.jpg"/>
+                        </a>                        
+                    </div>
+                </section>
+
+				<section>
+					<h1>The problem</h1>
+					<img class = "left" src="./reveal/images/dispatch.jpg"/>
+					
+						<h3> Dynamic supply and demand system.
+						Demand:xxxxx
+						Supply:xxxx</h3>
+					
+				</section>
+
+				<section>
+				<h1>Modelling response to disptach calls</h1>
+				</section>
+
+				
+				<section data-background-image="./reveal/images/route.jpg">
+                </section>
+
+                <section>
+                	<img class = "left" src="./reveal/images/SF-anim.gif"/>
+                </section>
+
+				<section>
+					Slide 3
+				</section>
+			</div>
+		</div>
+
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>

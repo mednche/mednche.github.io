@@ -1,0 +1,47 @@
+---
+layout: default
+title: Pojects
+---
+
+<!-- One -->
+<section id="One">
+	<h2>Projects</h2>
+
+		<div class="row">
+			{% assign projectposts = site.posts | where:"blog", "false" %}
+			
+			{% for post in projectposts %}
+
+			<article class="6u 12u$(xsmall) work-item">    
+
+			    <a href="{{ post.url }}" class="image fit thumb"><img src="{{post.thumbnail}}" alt="" /></a>
+				<h3>{{ post.small-title }}</h3>
+				<p>{{ post.teaser }}</p>
+
+				<small>
+					<h5><i class="icon-tags"></i> 
+						{% for tag in post.tags %}
+	      						| <a href="/tags#{{ tag }}" title="View posts tagged with &quot;{{tag}}&quot;"><u>{{ tag }}</u></a> |  
+							{% if forloop.last != true %} 
+	      						{% endif %} 
+						{% endfor %}
+					</h5>
+				</small>
+
+				</br>
+				<ul class="actions">
+					<li><a href="{{ post.url }}" class="button">Read more</a></li>
+				</ul>
+			  </article>
+								
+			{% endfor %}
+
+		</div>
+
+
+	<!-- READ MORE BUTTON
+		<ul class="actions">
+		<li><a href="#" class="button">Full Portfolio</a></li>
+	</ul>-->
+
+</section>
