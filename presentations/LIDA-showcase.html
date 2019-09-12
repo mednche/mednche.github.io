@@ -15,15 +15,13 @@
 		<title>Good cop, better cop</title>
 
 
-		<link rel="stylesheet" href="./reveal/css/reveal.css">
+		<link rel="stylesheet" href="reveal/css/reveal.css">
 
-		<link rel="stylesheet" href="./reveal/css/theme/black.css">
+		<link rel="stylesheet" href="reveal/css/theme/black.css">
 
-
-        
         <!-- Some extra bits added by myself -->
 
-        <link rel="stylesheet" href="./reveal/css/custom.css">
+        <link rel="stylesheet" href="reveal/css/custom.css">
 
 
 		<!-- Printing and PDF exports -->
@@ -32,22 +30,22 @@
 			var link = document.createElement( 'link' );
 			link.rel = 'stylesheet';
 			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? './reveal/css/print/pdf.css' : './reveal/css/print/paper.css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal/css/print/pdf.css' : 'reveal/css/print/paper.css';
 			document.getElementsByTagName( 'head' )[0].appendChild( link );
 		</script>
 	</head>
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				
-				<!-- *****************************************************************
-                     ********************** 		Title 		**********************
-                     ***************************************************************** -->
 
-				<section class="title" id="title" data-background-image="./reveal/images/policecar-title.jpg">
+				<!--*****************************************************************
+            ********************** 		Title 		*****************************
+            ***************************************************************** -->
+
+				<section class="title" id="title" data-background-image="reveal/images/policecar-title.jpg">
 					<div id="right">
                         <h1>Good cop, better cop:</h1>
-                        <h2>An optimisation approach to police dispatching</h2>
+                        <h2>An optimisation approach to UK police dispatching</h2>
                         <hr/>
 
                          <h4>Natacha Chenevoy, Daniel Birks, Nicolas Malleson</h4>
@@ -56,7 +54,7 @@
                 </section>
 
 
-				<section class="title" id="title" data-background-image="./reveal/images/UK-police-car-title-blur.jpg">
+				<section class="title" id="title" data-background-image="reveal/images/UK-police-car-title-blur.jpg">
                     <div class="blackbackground2">
                     	<h1>Good cop, better cop:</h1>
                         <h2>An optimisation approach to police dispatching</h2>
@@ -65,43 +63,58 @@
                         <h4>University of Leeds</h4>
 
                         <a href="">
-                            <img style="height:70px; width:auto;" src="./reveal/images/esrc.png"/>
+                            <img style="height:70px; width:auto;" src="reveal/images/esrc.png"/>
                         </a>
                         <a href="">
-                            <img style="height:70px; width:auto;" src="./reveal/images/uni.jpg"/>
-                        </a>                        
+                            <img style="height:70px; width:auto;" src="reveal/images/uni.jpg"/>
+                        </a>
                     </div>
                 </section>
 
+				<!--*****************************************************************
+						********************** 		The context 		***********************
+						***************************************************************** -->
 				<section>
-					<h1>The problem</h1>
-					<img class = "left" src="./reveal/images/dispatch.jpg"/>
-					
-						<h3> Dynamic supply and demand system.
-						Demand:xxxxx
-						Supply:xxxx</h3>
-					
+						<h1>Police supply and demand context</h1>
+						<img class = "left fragment" src="reveal/images/dispatch.jpg"/>
+						<img class = "right fragment" src="reveal/images/UK-policecar.jpg"/>
+						<p class="fragment"> </br></br>The police are encouraged to implement evidence-based approaches
+						towards more efficient strategies </p>
 				</section>
 
+				<!--*****************************************************************
+						********************** 		The problem 		***********************
+						***************************************************************** -->
+
 				<section>
-				<h1>Modelling response to disptach calls</h1>
+					<h1>Police supply and demand context</h1>
+					<img class = "left fragment" src="reveal/images/policecar-cartoon.png"/>
+					<img class = "right fragment" src="reveal/images/policestation-cartoon.png"/>
+					<img class = "left fragment" src="reveal/images/queue.png"/>
 				</section>
 
-				
-				<section data-background-image="./reveal/images/route.jpg">
-                </section>
+					<!--*****************************************************************
+							********************** 	Our solution 		*************************
+							***************************************************************** -->
+			<section>
+				<h1>Modelling police response to dispatch calls</h1>
+				</section>
 
-                <section>
-                	<img class = "left" src="./reveal/images/SF-anim.gif"/>
-                </section>
+				<section data-background-image="reveal/images/route.jpg">
+        </section>
+
+        <section>
+          <img class = "left" src="reveal/images/SF-anim.gif"/>
+        </section>
 
 				<section>
 					Slide 3
 				</section>
+
 			</div>
 		</div>
 
-		<script src="js/reveal.js"></script>
+		<script src="reveal/js/reveal.js"></script>
 
 		<script>
 			// More info about config & dependencies:
@@ -109,10 +122,10 @@
 			// - https://github.com/hakimel/reveal.js#dependencies
 			Reveal.initialize({
 				dependencies: [
-					{ src: 'plugin/markdown/marked.js' },
-					{ src: 'plugin/markdown/markdown.js' },
-					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true }
+					{ src: 'reveal/plugin/markdown/marked.js' },
+					{ src: 'reveal/plugin/markdown/markdown.js' },
+					{ src: 'reveal/plugin/notes/notes.js', async: true },
+					{ src: 'reveal/plugin/highlight/highlight.js', async: true }
 				]
 			});
 		</script>
