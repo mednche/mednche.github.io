@@ -41,7 +41,7 @@ In the first basic ABM implementation, police vehicles move along the road retwo
 
 
 ### Demo for 50 steps
-![](./abm-detroit.gif)
+![](./Images/abm-detroit.gif)
 
 Legend: 
 - Green: police stations
