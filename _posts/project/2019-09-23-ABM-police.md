@@ -8,11 +8,9 @@ tags: [python, ABM, policing]
 teaser: An ABM of police dispatch in Detroit
 ---
 
-
-
 ### Project Background
 
-
+Coming soon
 
 ### Data 
 
@@ -52,8 +50,7 @@ This method presents disadvantages. For example if a road segment (edge) is part
 
 #### 2. Improved movement of agents
 
-
-
+Coming soon
 
 ### Demo for 50 steps
 ![](/images/project/abm-detroit.gif)
@@ -67,6 +64,8 @@ Legend:
 
 ### Value of the Research
 
+Coming soon
+
 ### Link to the project code
 
-Private repo for the moment
+Coming soon
