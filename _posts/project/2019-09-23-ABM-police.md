@@ -25,7 +25,7 @@ In order to make the simulation more realistic, the following data was incorpora
   * speed limit on street segment
 
 For analysis:
-- [Boundaries of police districts]https://data.detroitmi.gov/Government/City-Council-Districts/4vse-9zps)
+- [Boundaries of police districts](https://data.detroitmi.gov/Government/City-Council-Districts/4vse-9zps)
 
 ### Methods
 
