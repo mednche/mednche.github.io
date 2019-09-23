@@ -16,7 +16,7 @@ teaser: An ABM of police dispatch in Detroit
 
 ### Data 
 
-In this simulation, 
+In order to make the simulation more realistic, the following data was incorporated:
 - [historical calls for service data for Detroit](https://data.detroitmi.gov/Public-Safety/DPD-911-Calls-for-Service-September-20-2016-Presen/wgv9-drfc)
 - [location of Detroit police stations](https://data.detroitmi.gov/Public-Safety/DPD-911-Calls-for-Service-September-20-2016-Presen/wgv9-drfc)
 - Open Street Map data (accessed using the [OSMNX python library](https://osmnx.readthedocs.io/en/stable/)). This data contains information on:
