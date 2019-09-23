@@ -27,7 +27,7 @@ For analysis:
 
 ### Methods
 
-In OSMNX, 
+When using OSMNX for a given city, the structure of the data consists in: 
 - A NetworkX graph (edges are road segments, nodes are intersections)
 - 2 geodataframes associated with the networkx (one for nodes and one for edges)
 
