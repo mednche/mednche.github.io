@@ -24,9 +24,11 @@ I'm under the supervision of [Assoc. Prof. Daniel Birks](https://essl.leeds.ac.u
 
 
 ## Talks & presentations
+* LIDA Annual Showcase, Univeristy of Leeds (Leeds, UK) - 17th September 2018
 * Environmental Criminology and Crime Analysis (ECCA) symposium, Guangzhou (China) - June 2019
 * [Leeds doctoral college showcase: poster competition, University of Leeds - 14th May 2019](http://www.leeds.ac.uk/info/130558/leeds_doctoral_college/514/leeds_doctoral_college_showcase)
 * [Data Science Engagement and Employability (SEEC) conference, University of Leeds - 8th May 2019](https://www.leedsdatascience.com/conference)
+* LIDA Annual Showcase, Univeristy of Leeds (Leeds, UK) - 13th September 2018
 * Hate crime knowledge exchange, Lancashire Constabulary (Preston, UK) - 26th April 2018
 * [Hate crime conference, University of Central Lancashire (Preston, UK) - 7th February 2018](https://www.eventbrite.co.uk/e/hate-crime-conference-tickets-42034378959)
 * [LIDA seminar on crime analytics, University of Leeds - 7th December 2017](https://lida.leeds.ac.uk/event/crime-analytics-2/)
