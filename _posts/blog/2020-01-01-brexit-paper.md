@@ -1,7 +1,7 @@
 ---
 layout: blog
 small-title: The language of Brexit
-big-title: Identifying the relationship between topics in British tabloids and those on Ttwitter 
+big-title: Identifying the relationship between topics in British tabloids and those on Twitter 
 feature-img: "/images/blog/brexit.png"
 thumbnail: "/images/blog/thumbs/brexit.png"
 tags: [topic modelling, NLP, brexit]
