@@ -24,9 +24,9 @@ I'm under the supervision of [Assoc. Prof. Daniel Birks](https://essl.leeds.ac.u
 
 
 ## Talks & presentations
-* Data Perspectives conference, Newcastle (UK) - March 2020
+* [Data Perspectives conference, Newcastle (UK) - March 2020](https://mednche.github.io/2020/03/11/Data-Perspectives.html)
 * LIDA Annual Showcase, Univeristy of Leeds (Leeds, UK) - 17th September 2018
-* Environmental Criminology and Crime Analysis (ECCA) symposium, Guangzhou (China) - June 2019
+* [Environmental Criminology and Crime Analysis (ECCA) symposium, Guangzhou (China) - June 2019](https://mednche.github.io/2019/07/01/ECCA-2019.html)
 * [Leeds doctoral college showcase: poster competition, University of Leeds - 14th May 2019](http://www.leeds.ac.uk/info/130558/leeds_doctoral_college/514/leeds_doctoral_college_showcase)
 * [Data Science Engagement and Employability (SEEC) conference, University of Leeds - 8th May 2019](https://www.leedsdatascience.com/conference)
 * LIDA Annual Showcase, Univeristy of Leeds (Leeds, UK) - 13th September 2018
