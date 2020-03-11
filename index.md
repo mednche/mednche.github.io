@@ -4,9 +4,9 @@ title: Homepage
 ---
 
 ## About me
-I'm a PhD student in Data Science and Criminology based in the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk/) (University of Leeds). 
+I'm a PhD student in Data Science and Crime Analytics based at the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk/) (University of Leeds). 
 
-My project involves exploring police spatiotemporal resource allocation problems. More specifically, I'm looking at police dispatch strategies in responding to calls for service.
+My project involves optimising police resource allocation under current and future demand.
 
 I'm under the supervision of [Assoc. Prof. Daniel Birks](https://essl.leeds.ac.uk/law/staff/261/dr-daniel-birks) and [Prof. Nick Malleson](http://nickmalleson.co.uk/).
 
@@ -24,7 +24,7 @@ I'm under the supervision of [Assoc. Prof. Daniel Birks](https://essl.leeds.ac.u
 
 
 ## Talks & presentations
-* Data Perspectives (Newcastle, UK - March 2020)
+* Data Perspectives conference, Newcastle (UK) - March 2020
 * LIDA Annual Showcase, Univeristy of Leeds (Leeds, UK) - 17th September 2018
 * Environmental Criminology and Crime Analysis (ECCA) symposium, Guangzhou (China) - June 2019
 * [Leeds doctoral college showcase: poster competition, University of Leeds - 14th May 2019](http://www.leeds.ac.uk/info/130558/leeds_doctoral_college/514/leeds_doctoral_college_showcase)
