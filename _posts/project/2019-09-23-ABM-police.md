@@ -60,7 +60,8 @@ Before running the simulation, an idle strategy is chosen that will apply to all
 ### Demo for 50 steps
 ![](/images/project/abm-detroit2.gif)
 
-Purple segments represent *hot streets* based on historical CFS/crime data.
+Occuring CFS appear as red cercles with an exclamation mark.
+Red segments represent *hot streets* based on historical CFS/crime data.
 
 
 ### Value of the Research
