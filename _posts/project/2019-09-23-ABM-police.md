@@ -15,7 +15,7 @@ Coming soon
 ### Data 
 
 In order to make the simulation more realistic, the following data was incorporated:
-- [Historical calls for service data for Detroit](https://data.detroitmi.gov/Public-Safety/DPD-911-Calls-for-Service-September-20-2016-Presen/wgv9-drfc)
+- [Historical calls for service data for Detroit](https://data.detroitmi.gov/datasets/911-calls-for-service?geometry=-86.058%2C42.028%2C-80.785%2C42.738)
 - [Location of Detroit police stations](https://data.detroitmi.gov/Public-Safety/DPD-911-Calls-for-Service-September-20-2016-Presen/wgv9-drfc)
 - Open Street Map data (accessed using the [OSMNX python library](https://osmnx.readthedocs.io/en/stable/)). This data contains information on:
   * Infrastructure of the road network (road type, length and number of lanes)
@@ -23,7 +23,8 @@ In order to make the simulation more realistic, the following data was incorpora
   * Speed limit on street segment
 
 For analysis:
-- [Boundaries of police districts](https://data.detroitmi.gov/Government/City-Council-Districts/4vse-9zps)
+- [Boundaries of police precincts](https://data.detroitmi.gov/datasets/dpd-precincts?geometry=-83.758%2C42.264%2C-82.440%2C42.442)
+- [Boundaries of council districts](https://data.detroitmi.gov/Government/City-Council-Districts/4vse-9zps)
 
 ### Methods
 
