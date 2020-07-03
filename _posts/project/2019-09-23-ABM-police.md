@@ -53,7 +53,7 @@ This method presents disadvantages. For example if a road segment (edge) is part
 Coming soon
 
 ### Demo for 50 steps
-![](/images/project/abm-detroit.gif)
+![](/images/project/abm-detroit2.gif)
 
 Legend: 
 - Green: police stations
