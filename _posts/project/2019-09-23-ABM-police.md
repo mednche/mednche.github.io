@@ -60,7 +60,6 @@ Before running the simulation, an idle strategy is chosen that will apply to all
 ### Demo for 50 steps
 ![](/images/project/abm-detroit2.gif)
 
-Legend: 
 Purple segments represent *hot streets* based on historical CFS/crime data.
 
 
