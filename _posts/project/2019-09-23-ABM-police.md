@@ -15,7 +15,7 @@ Coming soon
 ### Data 
 
 In order to make the simulation more realistic, the following data was incorporated:
-- [Historical calls for service data for Detroit](https://data.detroitmi.gov/Public-Safety/DPD-911-Calls-for-Service-September-20-2016-Presen/wgv9-drfc)
+- [Historical calls for service data for Detroit](https://data.detroitmi.gov/datasets/911-calls-for-service?geometry=-86.058%2C42.028%2C-80.785%2C42.738)
 - [Location of Detroit police stations](https://data.detroitmi.gov/Public-Safety/DPD-911-Calls-for-Service-September-20-2016-Presen/wgv9-drfc)
 - Open Street Map data (accessed using the [OSMNX python library](https://osmnx.readthedocs.io/en/stable/)). This data contains information on:
   * Infrastructure of the road network (road type, length and number of lanes)
@@ -23,7 +23,8 @@ In order to make the simulation more realistic, the following data was incorpora
   * Speed limit on street segment
 
 For analysis:
-- [Boundaries of police districts](https://data.detroitmi.gov/Government/City-Council-Districts/4vse-9zps)
+- [Boundaries of police precincts](https://data.detroitmi.gov/datasets/dpd-precincts?geometry=-83.758%2C42.264%2C-82.440%2C42.442)
+- [Boundaries of council districts](https://data.detroitmi.gov/Government/City-Council-Districts/4vse-9zps)
 
 ### Methods
 
@@ -34,32 +35,33 @@ When using OSMNX for a given city, the structure of the data consists in:
 The geodataframes contain information on the edges and nodes as well as a 'geometry' field containing:
 - Geometry of a node is a Shapely POINT()
 - Geometry of edges is a Shapely LINESTRING()
-This is how information on 
 
 In summary, OSMNX uses:
 - NetworkX library for manipulating the graph
 - Shapely library for geometric objects 
 
-In the first basic ABM implementation, police vehicles move along the road retwork of Detroit to respond to calls for service. They head back to the station when the incident is sorted.
 
-#### 1. Basic movement of agent (node jumping)
 
-The position of agents is recorded as node ID. At ever step, they move along their route (list of nodes) towards a target node (the closest node to the incident's location).
+#### Agent movement
 
-This method presents disadvantages. For example if a road segment (edge) is particularily long (motorway between 2 exits)
+The position of a given police vehicle is recorded as **node ID**. At ever step, they move along the road network following a **route** (list of nodes) towards a target node (the closest node to the incident's location).
 
-#### 2. Improved movement of agents
+This method presents disadvantages. For example if a road segment (edge) is particularily long (motorway between 2 exits).
 
-Coming soon
+
+#### Idle strategy
+
+Before running the simulation, an idle strategy is chosen that will apply to all agents. When idle they can:
+- remain stationnary
+- return to their station
+- patrol nearby hot streets
+
 
 ### Demo for 50 steps
 ![](/images/project/abm-detroit2.gif)
 
-Legend: 
-- Green: police stations
-- Blue: police vehicles
-- Yellow: incident not yet targeted by an agent
-- Red: incident currently targeted by an agent
+Occuring CFS appear as red cercles with an exclamation mark.
+Red segments represent *hot streets* based on historical CFS/crime data.
 
 
 ### Value of the Research
