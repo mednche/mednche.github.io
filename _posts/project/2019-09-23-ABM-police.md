@@ -7,6 +7,7 @@ thumbnail: "/images/project/thumbs/route-explained.jpg"
 tags: [python, ABM, policing]
 teaser: An ABM of police dispatch in Detroit
 ---
+
 Coming soon
 
 <!--
