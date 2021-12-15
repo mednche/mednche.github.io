@@ -24,6 +24,7 @@ I'm under the supervision of [Assoc. Prof. Daniel Birks](https://essl.leeds.ac.u
 
 
 ## Talks & presentations
+* [Royal Geographical Society Conference (online) - September 2021](https://www.rgs.org/research/annual-international-conference/)
 * [Data Perspectives conference, Newcastle (UK) - March 2020](https://mednche.github.io/2020/03/11/Data-Perspectives.html)
 * LIDA Annual Showcase, Univeristy of Leeds (Leeds, UK) - 17th September 2018
 * [Environmental Criminology and Crime Analysis (ECCA) symposium, Guangzhou (China) - June 2019](https://mednche.github.io/2019/07/01/ECCA-2019.html)
