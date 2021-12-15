@@ -20,7 +20,7 @@ I'm under the supervision of [Assoc. Prof. Daniel Birks](https://essl.leeds.ac.u
 
 ## Awards
 
-* [IALEIA Award for Excellence: Individual](https://mednche.github.io/2018/05/04/IALEIA-award.html) - 2018. The Award recognises individuals for outstanding contributions as intelligence analysts utilising intelligence products leading to the achievement of the organisation’s objectives.
+* [IALEIA Police Award for Excellence: Individual](https://mednche.github.io/2018/05/04/IALEIA-award.html) - 2018. The Award recognises individuals for outstanding contributions as intelligence analysts utilising intelligence products leading to the achievement of the organisation’s objectives.
 
 
 ## Talks & presentations
